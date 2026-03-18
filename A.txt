@@ -1,0 +1,1 @@
+A.txt is main rebase file
